@@ -1,6 +1,12 @@
 #background {
-    background-image: url("../img/bg.jpg");
+    /* background-image: url("../img/bg.jpg"); */
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+}
+.group{
+text-align: center;
+font-weight: bold;
+font-style: italic;
+text-decoration: underline;
 }
